@@ -47,7 +47,7 @@ git clone https://github.com/Namonga/java-Asteroids-rpg.git
 
 Структура проекта:
 ```
-asteroids-black-horizon/
+asteroids-rpg/
 ├── src/
 │   └── org/com/gamep/
 │       ├── AsteroidsApp.java             # Точка входа, инициализация базы и меню
